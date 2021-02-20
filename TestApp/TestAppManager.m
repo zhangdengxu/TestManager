@@ -6,13 +6,13 @@
 //  Copyright © 2017年 FinHub. All rights reserved.
 //
 
-#import "FBAppManager.h"
+#import "TestAppManager.h"
 
-@interface FBAppManager ()
+@interface TestAppManager ()
 
 @end
 
-@implementation FBAppManager
+@implementation TestAppManager
 
 // 数字
 + (BOOL)isStringContainNumberWith:(NSString *)str{

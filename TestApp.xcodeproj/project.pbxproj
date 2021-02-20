@@ -16,7 +16,7 @@
 		00CCBB3025DFC0A600E04278 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 00CCBB2F25DFC0A600E04278 /* main.m */; };
 		00CCBB3A25DFC0A600E04278 /* TestAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00CCBB3925DFC0A600E04278 /* TestAppTests.m */; };
 		00CCBB4525DFC0A600E04278 /* TestAppUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00CCBB4425DFC0A600E04278 /* TestAppUITests.m */; };
-		00CCBB5A25DFC22C00E04278 /* FBAppManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 00CCBB5925DFC22C00E04278 /* FBAppManager.m */; };
+		00CCBB5A25DFC22C00E04278 /* TestAppManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 00CCBB5925DFC22C00E04278 /* TestAppManager.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,8 +55,8 @@
 		00CCBB4025DFC0A600E04278 /* TestAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00CCBB4425DFC0A600E04278 /* TestAppUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestAppUITests.m; sourceTree = "<group>"; };
 		00CCBB4625DFC0A600E04278 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00CCBB5825DFC22C00E04278 /* FBAppManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FBAppManager.h; sourceTree = "<group>"; };
-		00CCBB5925DFC22C00E04278 /* FBAppManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FBAppManager.m; sourceTree = "<group>"; };
+		00CCBB5825DFC22C00E04278 /* TestAppManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestAppManager.h; sourceTree = "<group>"; };
+		00CCBB5925DFC22C00E04278 /* TestAppManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestAppManager.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -113,8 +113,8 @@
 				00CCBB2125DFC0A100E04278 /* SceneDelegate.m */,
 				00CCBB2325DFC0A100E04278 /* ViewController.h */,
 				00CCBB2425DFC0A100E04278 /* ViewController.m */,
-				00CCBB5825DFC22C00E04278 /* FBAppManager.h */,
-				00CCBB5925DFC22C00E04278 /* FBAppManager.m */,
+				00CCBB5825DFC22C00E04278 /* TestAppManager.h */,
+				00CCBB5925DFC22C00E04278 /* TestAppManager.m */,
 				00CCBB2625DFC0A100E04278 /* Main.storyboard */,
 				00CCBB2925DFC0A600E04278 /* Assets.xcassets */,
 				00CCBB2B25DFC0A600E04278 /* LaunchScreen.storyboard */,
@@ -274,7 +274,7 @@
 				00CCBB2525DFC0A100E04278 /* ViewController.m in Sources */,
 				00CCBB1F25DFC0A100E04278 /* AppDelegate.m in Sources */,
 				00CCBB3025DFC0A600E04278 /* main.m in Sources */,
-				00CCBB5A25DFC22C00E04278 /* FBAppManager.m in Sources */,
+				00CCBB5A25DFC22C00E04278 /* TestAppManager.m in Sources */,
 				00CCBB2225DFC0A100E04278 /* SceneDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

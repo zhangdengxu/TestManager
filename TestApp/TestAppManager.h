@@ -9,7 +9,7 @@
 #import <Foundation/Foundation.h>
 
 
-@interface FBAppManager : NSObject
+@interface TestAppManager : NSObject
 
 // 数字
 + (BOOL)isStringContainNumberWith:(NSString *)str;
