@@ -11,7 +11,7 @@
 
 @interface TestAppManager : NSObject
 
-// 数字
+// 数字是
 + (BOOL)isStringContainNumberWith:(NSString *)str;
 
 @end
