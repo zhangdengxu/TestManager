@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "TestManager"
-  s.version      = "0.2.0"
+  s.version      = "0.3.0"
   s.summary      = "open source Test With TestManager."
   s.homepage     = "https://github.com/zhangdengxu/TestManager.git"
   s.license      = 'MIT'
